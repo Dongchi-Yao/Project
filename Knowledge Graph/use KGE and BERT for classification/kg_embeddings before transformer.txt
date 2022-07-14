@@ -1,0 +1,96 @@
+Training epoch 1
+100 tensor(1.6916, device='cuda:0', grad_fn=<AddBackward0>)
+200 tensor(1.3217, device='cuda:0', grad_fn=<AddBackward0>)
+300 tensor(1.5116, device='cuda:0', grad_fn=<AddBackward0>)
+400 tensor(0.9174, device='cuda:0', grad_fn=<AddBackward0>)
+500 tensor(0.5104, device='cuda:0', grad_fn=<AddBackward0>)
+600 tensor(0.2780, device='cuda:0', grad_fn=<AddBackward0>)
+accuracy 0.7821782178217822
+Training epoch 2
+100 tensor(0.3261, device='cuda:0', grad_fn=<AddBackward0>)
+200 tensor(0.6368, device='cuda:0', grad_fn=<AddBackward0>)
+300 tensor(0.5115, device='cuda:0', grad_fn=<AddBackward0>)
+400 tensor(0.1754, device='cuda:0', grad_fn=<AddBackward0>)
+500 tensor(0.3833, device='cuda:0', grad_fn=<AddBackward0>)
+600 tensor(0.2450, device='cuda:0', grad_fn=<AddBackward0>)
+accuracy 0.8811881188118812
+Training epoch 3
+100 tensor(0.0545, device='cuda:0', grad_fn=<AddBackward0>)
+200 tensor(0.0435, device='cuda:0', grad_fn=<AddBackward0>)
+300 tensor(0.0201, device='cuda:0', grad_fn=<AddBackward0>)
+400 tensor(0.0096, device='cuda:0', grad_fn=<AddBackward0>)
+500 tensor(0.3443, device='cuda:0', grad_fn=<AddBackward0>)
+600 tensor(0.1876, device='cuda:0', grad_fn=<AddBackward0>)
+accuracy 0.8613861386138614
+Training epoch 4
+100 tensor(0.1423, device='cuda:0', grad_fn=<AddBackward0>)
+200 tensor(0.0141, device='cuda:0', grad_fn=<AddBackward0>)
+300 tensor(0.0644, device='cuda:0', grad_fn=<AddBackward0>)
+400 tensor(0.0031, device='cuda:0', grad_fn=<AddBackward0>)
+500 tensor(0.0061, device='cuda:0', grad_fn=<AddBackward0>)
+600 tensor(0.0037, device='cuda:0', grad_fn=<AddBackward0>)
+accuracy 0.9306930693069307
+Training epoch 5
+100 tensor(0.0043, device='cuda:0', grad_fn=<AddBackward0>)
+200 tensor(0.0291, device='cuda:0', grad_fn=<AddBackward0>)
+300 tensor(0.0047, device='cuda:0', grad_fn=<AddBackward0>)
+400 tensor(0.0085, device='cuda:0', grad_fn=<AddBackward0>)
+500 tensor(0.0035, device='cuda:0', grad_fn=<AddBackward0>)
+600 tensor(0.0029, device='cuda:0', grad_fn=<AddBackward0>)
+accuracy 0.900990099009901
+Training epoch 6
+100 tensor(0.0020, device='cuda:0', grad_fn=<AddBackward0>)
+200 tensor(0.0043, device='cuda:0', grad_fn=<AddBackward0>)
+300 tensor(0.0096, device='cuda:0', grad_fn=<AddBackward0>)
+400 tensor(0.0011, device='cuda:0', grad_fn=<AddBackward0>)
+500 tensor(0.0018, device='cuda:0', grad_fn=<AddBackward0>)
+600 tensor(0.0028, device='cuda:0', grad_fn=<AddBackward0>)
+accuracy 0.9207920792079208
+Training epoch 7
+100 tensor(0.0019, device='cuda:0', grad_fn=<AddBackward0>)
+200 tensor(0.0049, device='cuda:0', grad_fn=<AddBackward0>)
+300 tensor(0.0016, device='cuda:0', grad_fn=<AddBackward0>)
+400 tensor(0.0014, device='cuda:0', grad_fn=<AddBackward0>)
+500 tensor(0.0033, device='cuda:0', grad_fn=<AddBackward0>)
+600 tensor(0.0019, device='cuda:0', grad_fn=<AddBackward0>)
+accuracy 0.9108910891089109
+Training epoch 8
+100 tensor(0.0014, device='cuda:0', grad_fn=<AddBackward0>)
+200 tensor(0.0033, device='cuda:0', grad_fn=<AddBackward0>)
+300 tensor(0.0027, device='cuda:0', grad_fn=<AddBackward0>)
+400 tensor(0.0017, device='cuda:0', grad_fn=<AddBackward0>)
+500 tensor(0.0019, device='cuda:0', grad_fn=<AddBackward0>)
+600 tensor(0.0021, device='cuda:0', grad_fn=<AddBackward0>)
+accuracy 0.9108910891089109
+Training epoch 9
+100 tensor(0.0007, device='cuda:0', grad_fn=<AddBackward0>)
+200 tensor(0.0017, device='cuda:0', grad_fn=<AddBackward0>)
+300 tensor(0.0023, device='cuda:0', grad_fn=<AddBackward0>)
+400 tensor(0.0020, device='cuda:0', grad_fn=<AddBackward0>)
+500 tensor(0.0022, device='cuda:0', grad_fn=<AddBackward0>)
+600 tensor(0.0009, device='cuda:0', grad_fn=<AddBackward0>)
+accuracy 0.9108910891089109
+Training epoch 10
+100 tensor(0.0017, device='cuda:0', grad_fn=<AddBackward0>)
+200 tensor(0.0011, device='cuda:0', grad_fn=<AddBackward0>)
+300 tensor(0.0011, device='cuda:0', grad_fn=<AddBackward0>)
+400 tensor(0.0018, device='cuda:0', grad_fn=<AddBackward0>)
+500 tensor(0.0007, device='cuda:0', grad_fn=<AddBackward0>)
+600 tensor(0.0008, device='cuda:0', grad_fn=<AddBackward0>)
+accuracy 0.9108910891089109
+Training epoch 11
+100 tensor(0.0010, device='cuda:0', grad_fn=<AddBackward0>)
+200 tensor(0.0010, device='cuda:0', grad_fn=<AddBackward0>)
+300 tensor(0.0010, device='cuda:0', grad_fn=<AddBackward0>)
+400 tensor(0.0008, device='cuda:0', grad_fn=<AddBackward0>)
+500 tensor(0.0011, device='cuda:0', grad_fn=<AddBackward0>)
+600 tensor(0.0008, device='cuda:0', grad_fn=<AddBackward0>)
+accuracy 0.9108910891089109
+Training epoch 12
+100 tensor(0.0029, device='cuda:0', grad_fn=<AddBackward0>)
+200 tensor(0.0018, device='cuda:0', grad_fn=<AddBackward0>)
+300 tensor(0.0012, device='cuda:0', grad_fn=<AddBackward0>)
+400 tensor(0.0007, device='cuda:0', grad_fn=<AddBackward0>)
+500 tensor(0.0008, device='cuda:0', grad_fn=<AddBackward0>)
+600 tensor(0.0011, device='cuda:0', grad_fn=<AddBackward0>)
+accuracy 0.9108910891089109

@@ -1,5 +1,5 @@
 You can read the article on my LinkedIn page for better reading experience: 
-https://github.com/Daniel-Yao-Chengdu/NLP-project/blob/master/Blogs/How%20to%20get%20started%20with%20Natural%20Language%20Processing%20(NLP)%2C%20by%20Dongchi%20Yao.txt
+https://www.linkedin.com/pulse/how-get-started-natural-language-processing-nlp-dongchi-dongchi-yao/?published=t
 
 Intro
 I chatted with many friends recently, and some of them are optimistic about the future development of NLP: how to make the model better understand industry-specific knowledge, and how to integrate voice and image into NLP for multi-modal simulation. During those chats, I also learned that some undergraduate students want to enter the NLP field because they think that the competition is fiercer in the CV field than in the NLP field. However, I still think that it is mainly based on your personal interests, and try to do whatever you like, which is very important for your career development. This article will talk about how to learn NLP from scratch.
